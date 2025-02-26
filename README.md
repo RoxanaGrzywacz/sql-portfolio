@@ -59,4 +59,4 @@ In this project, I have organized the SQL queries into separate files for better
 - **`delete_data.sql`**: Includes queries for removing data from the tables if needed, like deleting owners or patients.
 - **`modify_tables.sql`**: Includes queries for modifying the structure of the existing tables. This may include actions such as adding new columns, changing column types, or updating relationships between tables.
 
-This structure makes it easier to manage different types of queries and provides a clean organization for anyone reviewing the project
+This structure makes it easier to manage different types of queries and provides a clean organization for anyone reviewing the project.
