@@ -1,0 +1,602 @@
+[
+    {
+        "id": 395,
+        "name": "Zenya",
+        "species": "Miniature rabbit",
+        "breed": "Mini Lop",
+        "age": 7,
+        "owner": {
+            "name": "Jan Oscyloskopny",
+            "phone": "810-573-578"
+        },
+        "weight_kg": 27.0
+    },
+    {
+        "id": 101,
+        "name": "Koko",
+        "species": "Miniature rabbit",
+        "breed": "Mini Lop",
+        "age": 3,
+        "owner": {
+            "name": "Kazimiera Zzakrzaka",
+            "phone": "120-456-789"
+        },
+        "weight_kg": 2.2
+    },
+    {
+        "id": 500,
+        "name": "Mruczek",
+        "species": "Miniature rabbit",
+        "breed": "English Angora",
+        "age": 1,
+        "owner": {
+            "name": "Jan Oscyloskopny",
+            "phone": "124-254-898"
+        },
+        "weight_kg": 41.2
+    },
+    {
+        "id": 997,
+        "name": "Ramzes",
+        "species": "Miniature rabbit",
+        "breed": "Mini Satin",
+        "age": 7,
+        "owner": {
+            "name": "Maria Jankowska",
+            "phone": "123-356-789"
+        },
+        "weight_kg": 46.0
+    },
+    {
+        "id": 919,
+        "name": "Puszek",
+        "species": "Miniature rabbit",
+        "breed": "Himalayan",
+        "age": 10,
+        "owner": {
+            "name": "Jan Kowalski",
+            "phone": "222-333-454"
+        },
+        "weight_kg": 13.7
+    },
+    {
+        "id": 763,
+        "name": "Ramzes",
+        "species": "Miniature rabbit",
+        "breed": "Mini Lop",
+        "age": 4,
+        "owner": {
+            "name": "Maria Jankowska",
+            "phone": "458-449-757"
+        },
+        "weight_kg": 15.5
+    },
+    {
+        "id": 655,
+        "name": "Reksio",
+        "species": "Miniature rabbit",
+        "breed": "Jersey Wooly",
+        "age": 15,
+        "owner": {
+            "name": "Anna Nowak",
+            "phone": "117-708-018"
+        },
+        "weight_kg": 12.8
+    },
+    {
+        "id": 36,
+        "name": "Ramzes",
+        "species": "Miniature rabbit",
+        "breed": "Mini Satin",
+        "age": 15,
+        "owner": {
+            "name": "Piotr Wi\u015bniewski",
+            "phone": "547-380-902"
+        },
+        "weight_kg": 14.8
+    },
+    {
+        "id": 52,
+        "name": "Ramzes",
+        "species": "Miniature rabbit",
+        "breed": "Holland Lop",
+        "age": 9,
+        "owner": {
+            "name": "Maria Jankowska",
+            "phone": "117-700-618"
+        },
+        "weight_kg": 22.0
+    },
+    {
+        "id": 557,
+        "name": "Zenya",
+        "species": "Miniature rabbit",
+        "breed": "Mini Satin",
+        "age": 15,
+        "owner": {
+            "name": "Dominika Zamojska",
+            "phone": "133-456-789"
+        },
+        "weight_kg": 8.7
+    },
+    {
+        "id": 317,
+        "name": "Azor",
+        "species": "Miniature rabbit",
+        "breed": "Mini Angora",
+        "age": 8,
+        "owner": {
+            "name": "Marta Krzak",
+            "phone": "879-331-938"
+        },
+        "weight_kg": 2.1
+    },
+    {
+        "id": 253,
+        "name": "Burek",
+        "species": "Miniature rabbit",
+        "breed": "Holland Lop",
+        "age": 9,
+        "owner": {
+            "name": "Marta Krzak",
+            "phone": "565-123-456"
+        },
+        "weight_kg": 28.2
+    },
+    {
+        "id": 16,
+        "name": "Azor",
+        "species": "Miniature rabbit",
+        "breed": "Mini Lop",
+        "age": 10,
+        "owner": {
+            "name": "Maria Jankowska",
+            "phone": "999-448-769"
+        },
+        "weight_kg": 23.2
+    },
+    {
+        "id": 654,
+        "name": "Debi",
+        "species": "Miniature rabbit",
+        "breed": "Mini Lop",
+        "age": 14,
+        "owner": {
+            "name": "Marta Krzak",
+            "phone": "120-784-597"
+        },
+        "weight_kg": 40.0
+    },
+    {
+        "id": 550,
+        "name": "Zenya",
+        "species": "Miniature rabbit",
+        "breed": "English Angora",
+        "age": 3,
+        "owner": {
+            "name": "Dominika Zamojska",
+            "phone": "123-456-689"
+        },
+        "weight_kg": 18.5
+    },
+    {
+        "id": 26,
+        "name": "Masha",
+        "species": "Miniature rabbit",
+        "breed": "Mini Angora",
+        "age": 3,
+        "owner": {
+            "name": "Anna Nowak",
+            "phone": "555-123-466"
+        },
+        "weight_kg": 40.2
+    },
+    {
+        "id": 58,
+        "name": "Koko",
+        "species": "Miniature rabbit",
+        "breed": "Holland Lop",
+        "age": 10,
+        "owner": {
+            "name": "Marta Krzak",
+            "phone": "155-123-456"
+        },
+        "weight_kg": 12.5
+    },
+    {
+        "id": 18,
+        "name": "Puszek",
+        "species": "Miniature rabbit",
+        "breed": "Mini Satin",
+        "age": 8,
+        "owner": {
+            "name": "Kazimiera Zzakrzaka",
+            "phone": "124-224-898"
+        },
+        "weight_kg": 42.2
+    },
+    {
+        "id": 405,
+        "name": "Mruczek",
+        "species": "Miniature rabbit",
+        "breed": "Dwarf Hotot",
+        "age": 1,
+        "owner": {
+            "name": "Dominik Wr\u00f3blewski",
+            "phone": "870-311-938"
+        },
+        "weight_kg": 8.6
+    },
+    {
+        "id": 150,
+        "name": "Eugenio",
+        "species": "Miniature rabbit",
+        "breed": "Mini Rex",
+        "age": 10,
+        "owner": {
+            "name": "Piotr Wi\u015bniewski",
+            "phone": "922-448-769"
+        },
+        "weight_kg": 23.0
+    },
+    {
+        "id": 999,
+        "name": "Matilde",
+        "species": "Miniature rabbit",
+        "breed": "Holland Lop",
+        "age": 10,
+        "owner": {
+            "name": "Piotr Wi\u015bniewski",
+            "phone": "137-708-618"
+        },
+        "weight_kg": 47.8
+    },
+    {
+        "id": 637,
+        "name": "Matilde",
+        "species": "Miniature rabbit",
+        "breed": "Netherland Dwarf",
+        "age": 10,
+        "owner": {
+            "name": "Jan Kowalski",
+            "phone": "124-724-597"
+        },
+        "weight_kg": 41.4
+    },
+    {
+        "id": 686,
+        "name": "Burek",
+        "species": "Miniature rabbit",
+        "breed": "English Angora",
+        "age": 8,
+        "owner": {
+            "name": "Jan Kowalski",
+            "phone": "222-333-444"
+        },
+        "weight_kg": 46.8
+    },
+    {
+        "id": 800,
+        "name": "Eugenio",
+        "species": "Miniature rabbit",
+        "breed": "Jersey Wooly",
+        "age": 4,
+        "owner": {
+            "name": "Marta Krzak",
+            "phone": "879-311-038"
+        },
+        "weight_kg": 34.1
+    },
+    {
+        "id": 346,
+        "name": "Koko",
+        "species": "Miniature rabbit",
+        "breed": "Netherland Dwarf",
+        "age": 7,
+        "owner": {
+            "name": "Jan Oscyloskopny",
+            "phone": "966-200-425"
+        },
+        "weight_kg": 46.0
+    },
+    {
+        "id": 326,
+        "name": "Eugenio",
+        "species": "Miniature rabbit",
+        "breed": "English Angora",
+        "age": 4,
+        "owner": {
+            "name": "Dominika Zamojska",
+            "phone": "147-580-902"
+        },
+        "weight_kg": 10.0
+    },
+    {
+        "id": 913,
+        "name": "Matilde",
+        "species": "Miniature rabbit",
+        "breed": "Mini Satin",
+        "age": 10,
+        "owner": {
+            "name": "Maria Jankowska",
+            "phone": "124-254-198"
+        },
+        "weight_kg": 38.2
+    },
+    {
+        "id": 426,
+        "name": "Koko",
+        "species": "Miniature rabbit",
+        "breed": "Jersey Wooly",
+        "age": 2,
+        "owner": {
+            "name": "Marta Krzak",
+            "phone": "779-311-938"
+        },
+        "weight_kg": 20.5
+    },
+    {
+        "id": 251,
+        "name": "Masha",
+        "species": "Miniature rabbit",
+        "breed": "Dwarf Hotot",
+        "age": 8,
+        "owner": {
+            "name": "Jan Kowalski",
+            "phone": "124-784-527"
+        },
+        "weight_kg": 28.9
+    },
+    {
+        "id": 772,
+        "name": "Reksio",
+        "species": "Miniature rabbit",
+        "breed": "Dwarf Hotot",
+        "age": 15,
+        "owner": {
+            "name": "Jan Kowalski",
+            "phone": "468-449-767"
+        },
+        "weight_kg": 19.7
+    },
+    {
+        "id": 742,
+        "name": "Matilde",
+        "species": "Miniature rabbit",
+        "breed": "Dwarf Hotot",
+        "age": 2,
+        "owner": {
+            "name": "Anna Nowak",
+            "phone": "882-790-629"
+        },
+        "weight_kg": 48.6
+    },
+    {
+        "id": 384,
+        "name": "Mruczek",
+        "species": "Miniature rabbit",
+        "breed": "Himalayan",
+        "age": 1,
+        "owner": {
+            "name": "Piotr Wi\u015bniewski",
+            "phone": "17-708-618"
+        },
+        "weight_kg": 7.0
+    },
+    {
+        "id": 785,
+        "name": "Eugenio",
+        "species": "Miniature rabbit",
+        "breed": "Himalayan",
+        "age": 3,
+        "owner": {
+            "name": "Dominika Zamojska",
+            "phone": "255-272-191"
+        },
+        "weight_kg": 3.0
+    },
+    {
+        "id": 374,
+        "name": "Zenya",
+        "species": "Miniature rabbit",
+        "breed": "Mini Rex",
+        "age": 7,
+        "owner": {
+            "name": "Maria Jankowska",
+            "phone": "810-533-528"
+        },
+        "weight_kg": 5.8
+    },
+    {
+        "id": 745,
+        "name": "Koko",
+        "species": "Miniature rabbit",
+        "breed": "Himalayan",
+        "age": 12,
+        "owner": {
+            "name": "Jan Kowalski",
+            "phone": "125-784-597"
+        },
+        "weight_kg": 26.0
+    },
+    {
+        "id": 969,
+        "name": "Koko",
+        "species": "Miniature rabbit",
+        "breed": "Mini Satin",
+        "age": 7,
+        "owner": {
+            "name": "Dominika Zamojska",
+            "phone": "929-048-769"
+        },
+        "weight_kg": 13.9
+    },
+    {
+        "id": 266,
+        "name": "Matilde",
+        "species": "Miniature rabbit",
+        "breed": "Dwarf Hotot",
+        "age": 8,
+        "owner": {
+            "name": "Dominik Wr\u00f3blewski",
+            "phone": "104-784-597"
+        },
+        "weight_kg": 34.3
+    },
+    {
+        "id": 220,
+        "name": "Matilde",
+        "species": "Miniature rabbit",
+        "breed": "English Angora",
+        "age": 1,
+        "owner": {
+            "name": "Jan Oscyloskopny",
+            "phone": "468-449-957"
+        },
+        "weight_kg": 37.5
+    },
+    {
+        "id": 684,
+        "name": "Koko",
+        "species": "Miniature rabbit",
+        "breed": "Jersey Wooly",
+        "age": 10,
+        "owner": {
+            "name": "Kazimiera Zzakrzaka",
+            "phone": "802-790-609"
+        },
+        "weight_kg": 39.5
+    },
+    {
+        "id": 161,
+        "name": "Eugenio",
+        "species": "Miniature rabbit",
+        "breed": "Mini Lop",
+        "age": 2,
+        "owner": {
+            "name": "Dominika Zamojska",
+            "phone": "468-449-757"
+        },
+        "weight_kg": 25.4
+    },
+    {
+        "id": 60,
+        "name": "Ramzes",
+        "species": "Miniature rabbit",
+        "breed": "Jersey Wooly",
+        "age": 2,
+        "owner": {
+            "name": "Dominika Zamojska",
+            "phone": "222-433-444"
+        },
+        "weight_kg": 4.3
+    },
+    {
+        "id": 43,
+        "name": "Matilde",
+        "species": "Miniature rabbit",
+        "breed": "Mini Lop",
+        "age": 12,
+        "owner": {
+            "name": "Maria Jankowska",
+            "phone": "555-133-456"
+        },
+        "weight_kg": 46.1
+    },
+    {
+        "id": 131,
+        "name": "Puszek",
+        "species": "Miniature rabbit",
+        "breed": "Netherland Dwarf",
+        "age": 15,
+        "owner": {
+            "name": "Jan Kowalski",
+            "phone": "937-654-321"
+        },
+        "weight_kg": 38.7
+    },
+    {
+        "id": 195,
+        "name": "Puszek",
+        "species": "Miniature rabbit",
+        "breed": "Jersey Wooly",
+        "age": 4,
+        "owner": {
+            "name": "Anna Nowak",
+            "phone": "886-790-609"
+        },
+        "weight_kg": 14.7
+    },
+    {
+        "id": 880,
+        "name": "Azor",
+        "species": "Miniature rabbit",
+        "breed": "Dwarf Hotot",
+        "age": 1,
+        "owner": {
+            "name": "Maria Jankowska",
+            "phone": "126-784-597"
+        },
+        "weight_kg": 3.8
+    },
+    {
+        "id": 397,
+        "name": "Zenya",
+        "species": "Miniature rabbit",
+        "breed": "Dwarf Hotot",
+        "age": 7,
+        "owner": {
+            "name": "Anna Nowak",
+            "phone": "117-208-618"
+        },
+        "weight_kg": 14.9
+    },
+    {
+        "id": 283,
+        "name": "Zenya",
+        "species": "Miniature rabbit",
+        "breed": "Jersey Wooly",
+        "age": 4,
+        "owner": {
+            "name": "Anna Nowak",
+            "phone": "810-563-528"
+        },
+        "weight_kg": 34.6
+    },
+    {
+        "id": 631,
+        "name": "Ramzes",
+        "species": "Miniature rabbit",
+        "breed": "Himalayan",
+        "age": 6,
+        "owner": {
+            "name": "Dominik Wr\u00f3blewski",
+            "phone": "535-123-456"
+        },
+        "weight_kg": 18.5
+    },
+    {
+        "id": 970,
+        "name": "Masha",
+        "species": "Miniature rabbit",
+        "breed": "English Angora",
+        "age": 11,
+        "owner": {
+            "name": "Maria Jankowska",
+            "phone": "124-884-597"
+        },
+        "weight_kg": 17.7
+    },
+    {
+        "id": 188,
+        "name": "Matilde",
+        "species": "Miniature rabbit",
+        "breed": "Mini Satin",
+        "age": 13,
+        "owner": {
+            "name": "Dominika Zamojska",
+            "phone": "154-784-597"
+        },
+        "weight_kg": 15.6
+    }
+]
