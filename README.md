@@ -47,3 +47,11 @@ This project demonstrates basic SQL operations such as:
    - `patient_id` (INT) - Reference to the pet (Foreign Key to `patients`)
    - `vaccination_date` (DATE) - Date of vaccination
    - `vaccine_type` (VARCHAR) - Type of vaccine administered
+
+## SQL Queries Organization
+
+In this project, I have organized the SQL queries into separate files for better clarity and management. Each file serves a specific purpose, making it easier to maintain and extend the database in the future. Below is a list of the files and their contents:
+
+- **`create_tables.sql`**: Contains queries for creating all the necessary tables, including tables for owners, patients (rabbits), and vaccinations.
+
+This structure makes it easier to manage different types of queries and provides a clean organization for anyone reviewing the project.
