@@ -39,4 +39,4 @@ conn.commit()
 cursor.close()
 conn.close()
 
-print("Import successful!")
+print("Import successful")
