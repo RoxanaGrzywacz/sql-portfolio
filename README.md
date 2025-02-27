@@ -61,3 +61,8 @@ In this project, I have organized the SQL queries into separate files for better
 - **`trigger_automation.sql`**: Contains the SQL trigger that automatically updates the vaccination status of patients in the `patients` table when a new record is inserted into the `vaccinations` table. This demonstrates the use of triggers to automate certain actions in the database.
 
 This structure makes it easier to manage different types of queries and provides a clean organization for anyone reviewing the project.
+
+## Installation Guide
+
+For detailed installation instructions, please refer to the [installation guide](installation_guide.md).
+
