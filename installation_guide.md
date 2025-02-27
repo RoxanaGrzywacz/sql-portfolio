@@ -61,7 +61,12 @@ To run this project on your computer, you need to install the following software
     - After the script loads, click the Execute button (the lightning icon) or press Ctrl + Enter.
 
 6. **Import Data from the JSON File**
-    To import data into the database from the JSON file, open Git Bash (or terminal) and run the following Python script:
+    To import data into the database from the JSON file, open the file import_json_to_mysql.py in your code editor. Enter your username, password, and database name, then save the file."
+
+    ![python user name, password, dataBaseName](images/python_pass.png)
+
+
+    Open Git Bash (or terminal) and run the following Python script:
 
     ```bash
     python import_json_to_mysql.py
